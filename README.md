@@ -1,2 +1,2 @@
 # giant-spoon
-other projects is linked to studying 
+some projects is linked to studying 
